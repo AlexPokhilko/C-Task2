@@ -8,3 +8,16 @@ int sum;
 sum = a1 +a2;
 
 Console.WriteLine(sum);
+
+long l1 = 6;
+
+long sum2 = l1 +a1;
+
+Console.WriteLine(sum2);
+
+double d1 = 6.77788;
+
+double sum3 = d1 +a1;
+
+Console.WriteLine(sum3);
+
